@@ -1,0 +1,6 @@
+contributors: Travis Quigg
+instructions:
+
+download python
+commandline: python interface.py
+
